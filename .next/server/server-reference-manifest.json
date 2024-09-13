@@ -1,0 +1,70 @@
+{
+  "node": {
+    "0cdd2fc980b400afb86fb393f9d5c0e8e0fa5400": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "190d8e3137b2d4668a38176172b5c8174761fa4f": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "376e6da90ef1d251842d0606ba40d29e31be8857": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "3d2b235c25ac5bf3f5fdbc1258f87b2dfa4f7620": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "5ac9f9759f8ecadaa60e28a62bc6f0f8a7c38225": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "9257edf82121b5558cc4bb4144188d29f6055f2d": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "ca33495256bf1bd176e6fadc1d3ca92a05b8da25": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "f708c9246857c6ef86a648d6d79ad6c7d07a51aa": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fshashankxrm%2Fsih%2Flib%2Factions%2Fpatient.actions.ts%22%2C%5B%22createUser%22%2C%22%24%24ACTION_1%22%2C%22%24%24ACTION_0%22%2C%22registerPatient%22%2C%22%24%24ACTION_3%22%2C%22getPatient%22%2C%22%24%24ACTION_2%22%2C%22getUser%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "n4EKN6O7QF2bkji0z0iEwm0sH1nnQvHp6gTprcGYEUo="
+}
